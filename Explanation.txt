@@ -1,0 +1,49 @@
+Given n full water bottles, you can exchange m empty water bottles for one full water bottle.
+The operation of drinking a full water bottle turns it into an empty bottle.
+Return the maximum number of water bottles you can drink.
+For example, n=9 and m=3
+
+Input Description:
+n and m as integer. (1<n,m<1000)
+
+Output Description:
+Print the maximum number of water bottles you can drink.
+
+Sample Input:
+9 3
+
+Sample Output:
+13
+
+Explanation:
+Consider the given explanation in the question.
+
+Sample Input:
+23 15
+
+Sample Output:
+24
+
+Sample Input:
+50 15
+
+Sample Output:
+53
+
+Sample Input:
+125 3
+
+Sample Output:
+187
+
+Sample Input:
+67 3
+
+Sample Output:
+100
+
+Sample Input:
+666 333
+
+Sample Output:
+668
